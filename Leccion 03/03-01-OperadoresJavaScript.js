@@ -17,3 +17,4 @@ console.log(z);
 ///El operador "===" revisa los valores y tambien los tipos
 z = a===c;
 console.log(z)
+
