@@ -48,5 +48,3 @@ console.log(x)
 //null(tipo OBJETO) = ausencia de valor
 var y = null;
 console.log(y);
-
-
