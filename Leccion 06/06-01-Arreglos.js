@@ -1,7 +1,7 @@
 //Es un Tipo objeto que almacena muchos valores
 // let autos = new Array('BMW','Audi','Nissan'); Manera antigua
 const autos = ['BMW','Audi','Nissan'];
-console.log(autos);
+console.log(typeof autos);
 
 
 console.log(autos[0]);
