@@ -42,6 +42,11 @@ console.log(miFuncionText)
 //Se introdujo en ECMAS6
 //Declaracion:
 //constante nombre         argumentos - cuerpo de la funcion
-const sumarArrowFunction = (a, b)     =>    a+b;
+const sumarArrowFunction = (a, b)     => a+b + "tilin";
 console.log(sumarArrowFunction(3,5));
 
+
+const sumarArrowFunction1 = (a, b)     => {
+   return a+b;
+};
+console.log(sumarArrowFunction1(3,5));
